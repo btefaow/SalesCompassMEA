@@ -1,0 +1,378 @@
+{
+  "tasks": [
+    {
+      "id": "20260510182932-ckpe",
+      "title": "World Bank/IMF 기반의 MEA 금융 인프라 부족 지표 확보 여부 확인. (Gap 증거물)",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-10T18:29:32.956Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T18-26",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T18-26/_report.md\n- Business: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 \n- Designer: Business가 제시한 데이터 기반의 핵심 슬라이드 구조를 바탕으로, Deep Sapphire Blue와 Alert Orange 팔레트를 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 슬라이드 구조 및 논리 흐름(Narrative Flow)을 최종적으로 설계하고 구체",
+      "completedAt": "2026-05-10T18:32:04.821Z"
+    },
+    {
+      "id": "20260510182933-rm7m",
+      "title": "3단계 솔루션 적용 시 예상되는 '최소 임계치(Minimum Viable KPI)'와 최적치를 수치로 확정. (ROI 근거)",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-10T18:29:33.008Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T18-26",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T18-26/_report.md\n- Business: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 \n- Designer: Business가 제시한 데이터 기반의 핵심 슬라이드 구조를 바탕으로, Deep Sapphire Blue와 Alert Orange 팔레트를 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 슬라이드 구조 및 논리 흐름(Narrative Flow)을 최종적으로 설계하고 구체",
+      "completedAt": "2026-05-10T18:32:04.851Z"
+    },
+    {
+      "id": "20260510182933-2axx",
+      "title": "슬라이드 6에 들어갈 ROI 그래프의 레이블과 전개 방식(Before/After Comparison)을 최종 점검.",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-10T18:29:33.055Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T18-26",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T18-26/_report.md\n- Business: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 \n- Designer: Business가 제시한 데이터 기반의 핵심 슬라이드 구조를 바탕으로, Deep Sapphire Blue와 Alert Orange 팔레트를 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 슬라이드 구조 및 논리 흐름(Narrative Flow)을 최종적으로 설계하고 구체",
+      "completedAt": "2026-05-10T18:32:04.879Z"
+    },
+    {
+      "id": "20260510182933-bak0",
+      "title": "전체 Deck의 Deep Sapphire Blue와 Alert Orange 대비를 활용하여 'Gap'은 어둡게, 'Solution/Gain'은 밝고 명확하게 대비하도록 지시.",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-10T18:29:33.091Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T18-26",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T18-26/_report.md\n- Business: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 \n- Designer: Business가 제시한 데이터 기반의 핵심 슬라이드 구조를 바탕으로, Deep Sapphire Blue와 Alert Orange 팔레트를 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 슬라이드 구조 및 논리 흐름(Narrative Flow)을 최종적으로 설계하고 구체",
+      "completedAt": "2026-05-10T18:32:04.907Z"
+    },
+    {
+      "id": "20260510182933-0o16",
+      "title": "이 구조에 맞춰 각 섹션별 초안 작성 기한을 설정하고 통합 스케줄 업데이트 필요.",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-10T18:29:33.126Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T18-26",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T18-26/_report.md\n- Business: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 \n- Designer: Business가 제시한 데이터 기반의 핵심 슬라이드 구조를 바탕으로, Deep Sapphire Blue와 Alert Orange 팔레트를 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Researcher와 Designer가 도출한 데이터 공백(Gap)과 비즈니스 연결 전략을 통합하여, CEO 보고용 Pitch Deck의 핵심 슬라이드 구조 및 논리 흐름(Narrative Flow)을 최종적으로 설계하고 구체",
+      "completedAt": "2026-05-10T18:32:04.933Z"
+    },
+    {
+      "id": "20260510204418-aqne",
+      "title": "모든 그래프의 Y축/X축 제목은 명확하게 정의되었는가? (추상적 용어 금지)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-10T20:44:18.807Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T20-41",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T20-41/_report.md\n- Designer: Business 에이전트가 제공한 최종 KPI 데이터와 확정된 디자인 시스템(Deep Sapphire Blue, Alert Orange)을 기반\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\nCEO님의 지시는 Pitch Deck의 시각적 완성도를 극대화하고 최종적으로 전달력을 확보하는 가장 중요한 단계입니다. 이미 여러 번 핵심 슬라이드와 그래프 컴포넌트를 제작했기 때문에, 단순히 와이어프레임을 '완성'하는 것 이상의 가치가 필요합니다.\n\n가장 가치 있는 단일 작업은 **'디자인된 요소들을 하나의 완벽",
+      "completedAt": "2026-05-10T20:44:18.956Z"
+    },
+    {
+      "id": "20260510204418-udgn",
+      "title": "핵심 KPI 수치는 반드시 원본 데이터 출처를 각주로 언급하였는가? (신뢰도 확보 필수)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-10T20:44:18.847Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T20-41",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T20-41/_report.md\n- Designer: Business 에이전트가 제공한 최종 KPI 데이터와 확정된 디자인 시스템(Deep Sapphire Blue, Alert Orange)을 기반\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\nCEO님의 지시는 Pitch Deck의 시각적 완성도를 극대화하고 최종적으로 전달력을 확보하는 가장 중요한 단계입니다. 이미 여러 번 핵심 슬라이드와 그래프 컴포넌트를 제작했기 때문에, 단순히 와이어프레임을 '완성'하는 것 이상의 가치가 필요합니다.\n\n가장 가치 있는 단일 작업은 **'디자인된 요소들을 하나의 완벽",
+      "completedAt": "2026-05-10T20:44:18.991Z"
+    },
+    {
+      "id": "20260510204418-tf52",
+      "title": "슬라이드당 텍스트 블록은 최대 3개 이하인가? (정보 과부하 방지)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-10T20:44:18.896Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T20-41",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T20-41/_report.md\n- Designer: Business 에이전트가 제공한 최종 KPI 데이터와 확정된 디자인 시스템(Deep Sapphire Blue, Alert Orange)을 기반\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\nCEO님의 지시는 Pitch Deck의 시각적 완성도를 극대화하고 최종적으로 전달력을 확보하는 가장 중요한 단계입니다. 이미 여러 번 핵심 슬라이드와 그래프 컴포넌트를 제작했기 때문에, 단순히 와이어프레임을 '완성'하는 것 이상의 가치가 필요합니다.\n\n가장 가치 있는 단일 작업은 **'디자인된 요소들을 하나의 완벽",
+      "completedAt": "2026-05-10T20:44:19.035Z"
+    },
+    {
+      "id": "20260511164217-pipd",
+      "title": "**지역별 미세 격차(Micro-Gap) 데이터 확보:** 가장 먼저, $Loss_{Gap}$ 주장을 뒷받침할 수 있는 최소 2개 이상의 지역(예: KSA의 A 유형 vs. Egypt의 B 유형)에서 **원시 데이터를 확보**했는가? (필수: Business 에이전트의 스키마에 정의된 모든 필드 채우기)",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T16:42:17.619Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T15-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T15-32/_report.md\n- Designer: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\ri\n- Business: Designer가 작업할 수 있도록, Micro-Gap 원시 자료(`Micro_Gap_Audit_Data.xlsx`)의 데이터 구조와 Audit\n- 영숙: Business 및 Designer의 작업 진행 상황을 추적하여, 확보된 데이터를 기반으로 Pilot 범위 정의를 위한 '최종 검증 체크리스트'\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\rightarrow$ ROI 논리 흐름을 시각적으로 극대화하는 핵심 대시보드 Mockup v",
+      "completedAt": "2026-05-11T16:42:42.088Z"
+    },
+    {
+      "id": "20260511164217-hlyy",
+      "title": "**KPI 산식 검증 데이터 준비:** FLI 및 ROI 계산에 필요한 핵심 변수(예: ARPU, 채택률 등)에 대한 **최근 1년간의 원시 변화 추이**가 있는가? (추정치 사용 금지)",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T16:42:17.626Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T15-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T15-32/_report.md\n- Designer: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\ri\n- Business: Designer가 작업할 수 있도록, Micro-Gap 원시 자료(`Micro_Gap_Audit_Data.xlsx`)의 데이터 구조와 Audit\n- 영숙: Business 및 Designer의 작업 진행 상황을 추적하여, 확보된 데이터를 기반으로 Pilot 범위 정의를 위한 '최종 검증 체크리스트'\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\rightarrow$ ROI 논리 흐름을 시각적으로 극대화하는 핵심 대시보드 Mockup v",
+      "completedAt": "2026-05-11T16:42:42.089Z"
+    },
+    {
+      "id": "20260511164217-28iw",
+      "title": "**데이터 출처 추적 가능성 확보:** 모든 수치(KPI 포함)에 대해 데이터가 어느 보고서/조사에서 왔는지 (**Audit Trail**)를 명확히 기록할 시스템/문서화가 완료되었는가?",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T16:42:17.628Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T15-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T15-32/_report.md\n- Designer: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\ri\n- Business: Designer가 작업할 수 있도록, Micro-Gap 원시 자료(`Micro_Gap_Audit_Data.xlsx`)의 데이터 구조와 Audit\n- 영숙: Business 및 Designer의 작업 진행 상황을 추적하여, 확보된 데이터를 기반으로 Pilot 범위 정의를 위한 '최종 검증 체크리스트'\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\rightarrow$ ROI 논리 흐름을 시각적으로 극대화하는 핵심 대시보드 Mockup v",
+      "completedAt": "2026-05-11T16:42:42.090Z"
+    },
+    {
+      "id": "20260511164217-7mm1",
+      "title": "**경쟁 우위 비교 매트릭스 검증:** 제안하는 솔루션이 기존 시장의 대안(Competitor) 대비 어떤 재무적 이점을 제공하는지, 이를 시각적으로 보여줄 수 있는 데이터 포인트가 확보되었는가?",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T16:42:17.629Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T15-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T15-32/_report.md\n- Designer: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\ri\n- Business: Designer가 작업할 수 있도록, Micro-Gap 원시 자료(`Micro_Gap_Audit_Data.xlsx`)의 데이터 구조와 Audit\n- 영숙: Business 및 Designer의 작업 진행 상황을 추적하여, 확보된 데이터를 기반으로 Pilot 범위 정의를 위한 '최종 검증 체크리스트'\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\rightarrow$ ROI 논리 흐름을 시각적으로 극대화하는 핵심 대시보드 Mockup v",
+      "completedAt": "2026-05-11T16:42:42.092Z"
+    },
+    {
+      "id": "20260511164217-sqhr",
+      "title": "**직관적인 성공 사례 시각화 요소 구현 가능성:** 40~50대 대표님들이 즉시 공감할 만한 '실제 작동 예시'를 담은 **Before/After 비교형 Mockup**의 와이어프레임이 완성되었는가? (단순 그래프 나열 지양)",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T16:42:17.631Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T15-32",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T15-32/_report.md\n- Designer: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\ri\n- Business: Designer가 작업할 수 있도록, Micro-Gap 원시 자료(`Micro_Gap_Audit_Data.xlsx`)의 데이터 구조와 Audit\n- 영숙: Business 및 Designer의 작업 진행 상황을 추적하여, 확보된 데이터를 기반으로 Pilot 범위 정의를 위한 '최종 검증 체크리스트'\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Business 에이전트가 제공할 것으로 예상되는 Micro-Gap 원시 자료를 기반으로, Loss_Gap $\rightarrow$ FLI $\rightarrow$ ROI 논리 흐름을 시각적으로 극대화하는 핵심 대시보드 Mockup v",
+      "completedAt": "2026-05-11T16:42:42.094Z"
+    },
+    {
+      "id": "20260511233027-mp2r",
+      "title": "**지표:** Micro-Gap 원시 자료의 실시간 접근 및 검증 여부 확인.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T23:30:27.560Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T23-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T23-23/_report.md\n- Business: Micro-Gap 원시 자료와 Audit Trail을 기반으로, Pilot 범위 정의에 필요한 핵심 재무 지표 및 검증 기준을 최종적으로 확정하\n- 영숙: Business 에이전트가 제공할 정보(Pilot 범위 정의 체크리스트)를 바탕으로 다음 단계의 후속 일정 관리 계획과 병목 지점 검증 체크리스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Micro-Gap 원시 자료와 Audit Trail을 기반으로, Pilot 범위 정의에 필요한 핵심 재무 지표 및 검증 기준을 최종적으로 확정하고 정리하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-05-11T23:33:22.631Z"
+    },
+    {
+      "id": "20260511233027-avg7",
+      "title": "**지표:** 확보된 데이터의 '출처(Audit Trail)'가 명확한지 검증.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T23:30:27.563Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T23-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T23-23/_report.md\n- Business: Micro-Gap 원시 자료와 Audit Trail을 기반으로, Pilot 범위 정의에 필요한 핵심 재무 지표 및 검증 기준을 최종적으로 확정하\n- 영숙: Business 에이전트가 제공할 정보(Pilot 범위 정의 체크리스트)를 바탕으로 다음 단계의 후속 일정 관리 계획과 병목 지점 검증 체크리스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Micro-Gap 원시 자료와 Audit Trail을 기반으로, Pilot 범위 정의에 필요한 핵심 재무 지표 및 검증 기준을 최종적으로 확정하고 정리하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-05-11T23:33:22.632Z"
+    },
+    {
+      "id": "20260511233027-o3md",
+      "title": "**지표:** 'Gap'을 증명할 핵심 케이스 스터디 사례(Case Study) 확보 및 시각화 요소 확정.",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-05-11T23:30:27.564Z",
+      "status": "done",
+      "sessionDir": "2026-05-11T23-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-11T23-23/_report.md\n- Business: Micro-Gap 원시 자료와 Audit Trail을 기반으로, Pilot 범위 정의에 필요한 핵심 재무 지표 및 검증 기준을 최종적으로 확정하\n- 영숙: Business 에이전트가 제공할 정보(Pilot 범위 정의 체크리스트)를 바탕으로 다음 단계의 후속 일정 관리 계획과 병목 지점 검증 체크리스\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Micro-Gap 원시 자료와 Audit Trail을 기반으로, Pilot 범위 정의에 필요한 핵심 재무 지표 및 검증 기준을 최종적으로 확정하고 정리하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 ",
+      "completedAt": "2026-05-11T23:33:22.634Z"
+    },
+    {
+      "id": "20260512001455-urco",
+      "title": "**신뢰성(Reliability):** 해당 자료가 통계적 유의미성을 갖는 샘플 크기($N$)와 조사 기간을 명시했는가?",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-12T00:14:55.308Z",
+      "status": "done",
+      "sessionDir": "2026-05-12T00-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-12T00-08/_report.md\n- Business: Pilot_Scope_Validation_Checklist_V2.md에 명시된 Micro-Gap 원시 자료(Source List) 목록을 즉시 \n- 영숙: 확정된 체크리스트를 바탕으로 모든 에이전트의 데이터 수집 일정(Timeline)에 따른 병목 구간 해결 및 최종 마감일을 재조정하여 실행 계획을\n- Developer: Micro-Gap 원시 자료가 도착하기 전에 Loss $\rightarrow$ FLI $\rightarrow$ ROI의 데이터 구조와 Audit T\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Pilot_Scope_Validation_Checklist_V2.md에 명시된 Micro-Gap 원시 자료(Source List) 목록을 즉시 실행할 수 있도록 구체화하고, 데이터 요청을 시작하라.\n> 🔧 **도구 실행**:",
+      "completedAt": "2026-05-12T00:23:24.735Z"
+    },
+    {
+      "id": "20260512001455-kxga",
+      "title": "**일관성(Consistency):** 여러 소스에서 가져온 지표 간에 상식적인 모순이 없는가? (예: 가계 소득 대비 통신비 비중이 과도하게 높거나 낮은 경우)",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-12T00:14:55.310Z",
+      "status": "done",
+      "sessionDir": "2026-05-12T00-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-12T00-08/_report.md\n- Business: Pilot_Scope_Validation_Checklist_V2.md에 명시된 Micro-Gap 원시 자료(Source List) 목록을 즉시 \n- 영숙: 확정된 체크리스트를 바탕으로 모든 에이전트의 데이터 수집 일정(Timeline)에 따른 병목 구간 해결 및 최종 마감일을 재조정하여 실행 계획을\n- Developer: Micro-Gap 원시 자료가 도착하기 전에 Loss $\rightarrow$ FLI $\rightarrow$ ROI의 데이터 구조와 Audit T\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Pilot_Scope_Validation_Checklist_V2.md에 명시된 Micro-Gap 원시 자료(Source List) 목록을 즉시 실행할 수 있도록 구체화하고, 데이터 요청을 시작하라.\n> 🔧 **도구 실행**:",
+      "completedAt": "2026-05-12T00:23:24.737Z"
+    },
+    {
+      "id": "20260512001455-wugj",
+      "title": "**Audit Trail 적합성:** 이 데이터가 최종 ROI 계산의 어느 변수(Variable)를 검증하는 데 쓰였는지 명확히 연결할 수 있는 출처 표기가 가능한가?",
+      "description": "자동 등록 (Business 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-05-12T00:14:55.311Z",
+      "status": "done",
+      "sessionDir": "2026-05-12T00-08",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-12T00-08/_report.md\n- Business: Pilot_Scope_Validation_Checklist_V2.md에 명시된 Micro-Gap 원시 자료(Source List) 목록을 즉시 \n- 영숙: 확정된 체크리스트를 바탕으로 모든 에이전트의 데이터 수집 일정(Timeline)에 따른 병목 구간 해결 및 최종 마감일을 재조정하여 실행 계획을\n- Developer: Micro-Gap 원시 자료가 도착하기 전에 Loss $\rightarrow$ FLI $\rightarrow$ ROI의 데이터 구조와 Audit T\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💰 Business _(Head of Business)_\n> 📋 **지시**: Pilot_Scope_Validation_Checklist_V2.md에 명시된 Micro-Gap 원시 자료(Source List) 목록을 즉시 실행할 수 있도록 구체화하고, 데이터 요청을 시작하라.\n> 🔧 **도구 실행**:",
+      "completedAt": "2026-05-12T00:23:24.738Z"
+    },
+    {
+      "id": "20260513041416-j580",
+      "title": "모든 경고(Alert) 상태는 오렌지/레드 그라디언트로 표현되어야 함.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-13T04:14:16.903Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T04-07",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T04-07/_report.md\n- Designer: Writer가 확정한 스토리텔링 플로우(V4.0)와 Business의 $C_{risk}$ 논리를 완벽하게 반영하여, 최종 사용자 인터페이스(UI\n- Writer: Designer가 완성할 최종 UI/UX 프로토타입의 감정적 흐름과 데이터 연관성을 극대화하도록, 영상 내레이션에 적용될 톤앤매너 및 강조 포인\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 확정한 스토리텔링 플로우(V4.0)와 Business의 $C_{risk}$ 논리를 완벽하게 반영하여, 최종 사용자 인터페이스(UI/UX) 프로토타입에 적용될 구체적인 시각화 에셋 및 인터페이스 디자인을 완성하라.\n> ",
+      "completedAt": "2026-05-13T04:21:22.708Z"
+    },
+    {
+      "id": "20260513041416-h6m5",
+      "title": "데이터 변화 시 애니메이션을 반드시 적용하여 '살아있는' 느낌을 주어야 함.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-13T04:14:16.906Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T04-07",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T04-07/_report.md\n- Designer: Writer가 확정한 스토리텔링 플로우(V4.0)와 Business의 $C_{risk}$ 논리를 완벽하게 반영하여, 최종 사용자 인터페이스(UI\n- Writer: Designer가 완성할 최종 UI/UX 프로토타입의 감정적 흐름과 데이터 연관성을 극대화하도록, 영상 내레이션에 적용될 톤앤매너 및 강조 포인\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 확정한 스토리텔링 플로우(V4.0)와 Business의 $C_{risk}$ 논리를 완벽하게 반영하여, 최종 사용자 인터페이스(UI/UX) 프로토타입에 적용될 구체적인 시각화 에셋 및 인터페이스 디자인을 완성하라.\n> ",
+      "completedAt": "2026-05-13T04:21:22.712Z"
+    },
+    {
+      "id": "20260513041416-ddul",
+      "title": "$C_{risk}$ 점수가 기준치를 넘어서면, 해당 컴포넌트의 **가장 상위 요소(Header/Title)**에 경고 배너가 자동으로 뜨도록 구현할 것.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-13T04:14:16.908Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T04-07",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T04-07/_report.md\n- Designer: Writer가 확정한 스토리텔링 플로우(V4.0)와 Business의 $C_{risk}$ 논리를 완벽하게 반영하여, 최종 사용자 인터페이스(UI\n- Writer: Designer가 완성할 최종 UI/UX 프로토타입의 감정적 흐름과 데이터 연관성을 극대화하도록, 영상 내레이션에 적용될 톤앤매너 및 강조 포인\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 확정한 스토리텔링 플로우(V4.0)와 Business의 $C_{risk}$ 논리를 완벽하게 반영하여, 최종 사용자 인터페이스(UI/UX) 프로토타입에 적용될 구체적인 시각화 에셋 및 인터페이스 디자인을 완성하라.\n> ",
+      "completedAt": "2026-05-13T04:21:22.713Z"
+    }
+  ]
+}
